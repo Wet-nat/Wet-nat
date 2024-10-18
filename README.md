@@ -1,7 +1,10 @@
 # Hi there 👋
 
 # 💫 About Me:
-🎓 I am Ente Wang, a recent Computer Science graduate from the University of Manchester, where I achieved First Class Honours. Throughout my academic journey, I've developed a deep passion for solving complex technical problems while maintaining a focus on creating real-world impact.\n \n👨‍💻 My passion lies in using technology to solve real-world problems and make a positive impact. This drives everything I do, from my academic projects to hackathons. \n \n🎹 Beyond my tech work, I like to challenge myself by learning new skills. My hobbies include playing piano, playing the cajón, jogging, and even some quirky ones like practicing writing with my left hand.\n \n📚 I also enjoy reading books on personal development and financial literacy. One of my favorites in personal development is Atomic Habits by James Clear, and in financial literacy, I really like Rich Dad Poor Dad by Robert Kiyosaki.
+🎓 I am Ente Wang, a recent Computer Science graduate from the University of Manchester, where I achieved First Class Honours. Throughout my academic journey, I've developed a deep passion for solving complex technical problems while maintaining a focus on creating real-world impact.\
+👨‍💻 My passion lies in using technology to solve real-world problems and make a positive impact. This drives everything I do, from my academic projects to hackathons. \
+🎹 Beyond my tech work, I like to challenge myself by learning new skills. My hobbies include playing piano, playing the cajón, jogging, and even some quirky ones like practicing writing with my left hand.\
+📚 I also enjoy reading books on personal development and financial literacy. One of my favorites in personal development is Atomic Habits by James Clear, and in financial literacy, I really like Rich Dad Poor Dad by Robert Kiyosaki.
 
 
 ## 🌐 Socials:
